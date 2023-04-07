@@ -11,3 +11,17 @@ Once you've got everything set up, enter the names of the stocks or companies yo
 So what are you waiting for? Try our program, and see what the world thinks about your favorite stocks and companies. Who knows, you might discover the next big thing! Or you might just have a good laugh at what the internet thinks about your favorite brands. Either way, it's a win-win situation.
 
 Happy analyzing!
+
+## Requirements
+
+Python 3.x
+NLTK library
+Plotnine library
+Pandas library
+Beautiful Soup library
+
+## Acknowledgments
+
+The sentiment analysis is powered by the FINVIZ website (https://finviz.com/).
+The VADER sentiment analysis tool is part of the NLTK library (https://www.nltk.org/).
+The bar graph is generated using the Plotnine library (https://plotnine.readthedocs.io/en/stable/).
