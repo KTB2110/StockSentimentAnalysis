@@ -1,4 +1,4 @@
-### Sentiment Analysis of Stocks powered by FINVIZ
+## Sentiment Analysis of Stocks powered by FINVIZ
 
 Welcome to the Sentiment Analysis of Stocks powered by FINVIZ! If you're here, you're probably curious about the sentiment surrounding a particular stock or company. Maybe you're looking to invest, or maybe you're just curious about what the world has to say about a particular business.
 
